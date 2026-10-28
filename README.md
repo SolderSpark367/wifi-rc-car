@@ -17,4 +17,5 @@ Estimated total			$ 52.50-63
 By the way you can use these parts to make other projects too so
 <img width="1920" height="1080" alt="WIN_20261027_23_12_45_Pro" src="https://github.com/user-attachments/assets/cd2d72ab-1c42-4ec4-899a-8b6c538e1cab" />
 <img width="1920" height="1080" alt="WIN_20261027_23_12_40_Pro" src="https://github.com/user-attachments/assets/5e5c941a-156d-4230-be02-d621b948adb5" />
+<img width="2880" height="1698" alt="Screenshot 2026-10-26 182513" src="https://github.com/user-attachments/assets/5dd95285-e645-48f9-b505-bdd0f22bec1a" />
 
