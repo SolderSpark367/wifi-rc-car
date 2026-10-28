@@ -11,3 +11,7 @@ To upload the code download Arduino IDE for your device (Mac or Windows) then go
 into arduino IDE or download the file and upload it in Arduino IDE itself. To connect to the RC Car network look for the network name Kenils-RC-Car and
 connect it will ask for a password enter this exactly: kenil1234
 then you are all set then connect to the web server which is probably 192.168.4.1 for you and you are all set to drive the RC Car now!
+
+-How to Drive the Car-
+
+To drive the RC Car click a button to make it go either forward, backward, right, or left and release to stop making it go where you clicked.
