@@ -13,7 +13,8 @@ USB data/power cable $3
 Jumper wires	1 small set $2
 Filament for chassis and printed mounts	Estimated amount $3
 Screws, nuts, or mounting adhesive	Small amount $2
-Estimated total			$ 52.50-63
+
+Estimated total $ 52.50-63
 By the way you can use these parts to make other projects too so
 <img width="1920" height="1080" alt="WIN_20261027_23_12_45_Pro" src="https://github.com/user-attachments/assets/cd2d72ab-1c42-4ec4-899a-8b6c538e1cab" />
 <img width="1920" height="1080" alt="WIN_20261027_23_12_40_Pro" src="https://github.com/user-attachments/assets/5e5c941a-156d-4230-be02-d621b948adb5" />
