@@ -36,6 +36,9 @@ Screws, nuts, or mounting adhesive	Small amount $2
 
 Estimated total $ 52.50-63 
 
+- Known issues
+the car will not work well on carpet so use it on a hard solid flat surface
+
 
 
 
