@@ -22,19 +22,19 @@ How to assemble: first put all the parts on the bottom floor of the car except t
 - BOM
 An estimated bill for all the materials are below with each cost of each component and the total
 Component	Quantity	Estimated unit cost	Total
-ESP32-WROVER-CAM board $19
-L298N motor driver $2-3
-2 Yellow TT motors that come with wheels $6
-Front ball caster $0.5-10 dollar depending on what material you use to print it or if you buy it directly
-4×AA battery holder $2
-4 AA batteries $3
-USB power bank	$10
-USB data/power cable $3
-Jumper wires	1 small set $2
-Filament for chassis and printed mounts	Estimated amount $3
-Screws, nuts, or mounting adhesive	Small amount $2
+- ESP32-WROVER-CAM board $19
+- L298N motor driver $2-3
+- 2 Yellow TT motors that come with wheels $6
+- Front ball caster $0.5-10 dollar depending on what material you use to print it or if you buy it directly
+- 4×AA battery holder $2
+- 4 AA batteries $3
+- USB power bank	$10
+- USB data/power cable $3
+- Jumper wires	1 small set $2
+- Filament for chassis and printed mounts	Estimated amount $3
+- Screws, nuts, or mounting adhesive	Small amount $2
 
-Estimated total $ 52.50-63 
+- Estimated total $ 52.50-63 
 
 - Known issues
 the car will not work well on carpet so use it on a hard solid flat surface
