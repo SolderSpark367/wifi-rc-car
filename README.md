@@ -12,10 +12,30 @@ connect it will ask for a password enter this exactly: kenil1234
 then you are all set then connect to the web server which is probably 192.168.4.1 for you and you are all set to drive the RC Car now!
 -How to Drive the Car-
 To drive the RC Car click a button to make it go either forward, backward, right, or left and release to stop.
+How to assemble: first put all the parts on the bottom floor of the car except the ESP32-WROVER or the microcontroller you are using then put the microcontroller on the top and through the holes guide the wires for the wiring through the holes and then screw through the holes on the middle sides to the bottom and top with one giant screw and attach the wheels to the motors that you mounted and then you are done and for the front remember to use the ball caster.
 
 <img width="2212" height="1004" alt="image" src="https://github.com/user-attachments/assets/afbd9e7e-7a3e-4e10-b0ff-6dfbb101242f" />
 <img width="1920" height="1080" alt="WIN_20261027_23_12_40_Pro" src="https://github.com/user-attachments/assets/972fd408-cc8f-4f9a-945c-0a589fc4c870" />
 <img width="1920" height="1080" alt="WIN_20261027_23_12_45_Pro" src="https://github.com/user-attachments/assets/8f0864e8-03bb-4851-9792-60ab099957b8" />
+<img width="2230" height="1428" alt="wiring for wifi-rc-car (1)" src="https://github.com/user-attachments/assets/2d2d5881-0d84-454b-9127-99697239cf21" />
+
+- BOM
+An estimated bill for all the materials are below with each cost of each component and the total
+Component	Quantity	Estimated unit cost	Total
+ESP32-WROVER-CAM board $19
+L298N motor driver $2-3
+2 Yellow TT motors that come with wheels $6
+Front ball caster $0.5-10 dollar depending on what material you use to print it or if you buy it directly
+4×AA battery holder $2
+4 AA batteries $3
+USB power bank	$10
+USB data/power cable $3
+Jumper wires	1 small set $2
+Filament for chassis and printed mounts	Estimated amount $3
+Screws, nuts, or mounting adhesive	Small amount $2
+
+Estimated total $ 52.50-63 
+
 
 
 
