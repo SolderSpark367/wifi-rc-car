@@ -5,7 +5,10 @@
 - RESOURCES
 For the chassis file check out the Wi-Fi controlled car chassis.stl file it has the ready to print chassis file (as a reminder you may need to print the file in two different parts since the car has a bottom and top layer and both are pretty big and most probably won't fit in one print cycle on your printer)
 - Step by Step instructions. 1: Print the Chasis 2: Mount the parts 3: Wire everything up using the wiring diagram 4: Test the Motors 5: Finalize the code and RC Car itself
-- Some other information-
+
+
+
+  -Some other information-
 To upload the code download Arduino IDE for your device (Mac or Windows) then go to the Final-code-for-wifi-rc-car and either copy and paste the code 
 into arduino IDE or download the file and upload it in Arduino IDE itself. To connect to the RC Car network look for the network name Kenils-RC-Car and
 connect it will ask for a password enter this exactly: kenil1234
