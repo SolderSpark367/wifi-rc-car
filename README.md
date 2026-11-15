@@ -17,7 +17,8 @@ then you are all set then connect to the web server which is probably 192.168.4.
 To drive the RC Car click a button to make it go either forward, backward, right, or left and release to stop.
 How to assemble: first put all the parts on the bottom floor of the car except the ESP32-WROVER or the microcontroller you are using then put the microcontroller on the top and through the holes guide the wires for the wiring through the holes and then screw through the holes on the middle sides to the bottom and top with one giant screw and attach the wheels to the motors that you mounted and then you are done and for the front remember to use the ball caster.
 
-<img width="2212" height="1004" alt="image" src="https://github.com/user-attachments/assets/afbd9e7e-7a3e-4e10-b0ff-6dfbb101242f" />
+
+<img width="687" height="482" alt="Screenshot 2026-11-15 111200" src="https://github.com/user-attachments/assets/cbfa9406-eef2-45a0-8891-c283940ee603" />
 <img width="1920" height="1080" alt="WIN_20261027_23_12_40_Pro" src="https://github.com/user-attachments/assets/972fd408-cc8f-4f9a-945c-0a589fc4c870" />
 <img width="1920" height="1080" alt="WIN_20261027_23_12_45_Pro" src="https://github.com/user-attachments/assets/8f0864e8-03bb-4851-9792-60ab099957b8" />
 <img width="2230" height="1428" alt="wiring for wifi-rc-car (1)" src="https://github.com/user-attachments/assets/2d2d5881-0d84-454b-9127-99697239cf21" />
