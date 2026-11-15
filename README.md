@@ -21,7 +21,8 @@ How to assemble: first put all the parts on the bottom floor of the car except t
 <img width="687" height="482" alt="Screenshot 2026-11-15 111200" src="https://github.com/user-attachments/assets/cbfa9406-eef2-45a0-8891-c283940ee603" />
 <img width="1920" height="1080" alt="WIN_20261027_23_12_40_Pro" src="https://github.com/user-attachments/assets/972fd408-cc8f-4f9a-945c-0a589fc4c870" />
 <img width="1920" height="1080" alt="WIN_20261027_23_12_45_Pro" src="https://github.com/user-attachments/assets/8f0864e8-03bb-4851-9792-60ab099957b8" />
-<img width="2230" height="1428" alt="wiring for wifi-rc-car (1)" src="https://github.com/user-attachments/assets/2d2d5881-0d84-454b-9127-99697239cf21" />
+<img width="3024" height="4032" alt="IMG_4606_0ca5bb1c0683ced2" src="https://github.com/user-attachments/assets/a95ab9bf-29cd-4900-97ad-e0cd6934b547" />
+
 
 - BOM
 An estimated bill for all the materials are below with each cost of each component and the total
