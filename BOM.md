@@ -1,4 +1,4 @@
-An estimated bill of materials for the RC car is listed below.
+-BOM-
 
 | Component | Quantity | Estimated unit cost | Estimated total |
 |-----------|----------|---------------------|-----------------|
