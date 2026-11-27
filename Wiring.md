@@ -1,3 +1,3 @@
 wiring for rc car
-<img width="3024" height="4032" alt="IMG_4606_0ca5bb1c0683ced2" src="https://github.com/user-attachments/assets/a95ab9bf-29cd-4900-97ad-e0cd6934b547" />
+<img width="1158" height="542" alt="image" src="https://github.com/user-attachments/assets/ca6dd0ec-952f-4657-a57a-0545c6773a5b" />
 
