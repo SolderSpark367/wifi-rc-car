@@ -28,6 +28,7 @@ How to assemble: first put all the parts on the bottom floor of the car except t
 
 
 <img width="1300" height="1028" alt="image" src="https://github.com/user-attachments/assets/8ee24104-de46-4695-9e8d-7680b433e171" />
+CHECK OUT THE BOM.MD FOR THE EMBEDDED LINKS
 
 
 - Known issues
