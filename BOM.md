@@ -1,4 +1,4 @@
-An estimated bill of materials for the RC car is listed below.
+-BOM-
 
 | Component | Quantity | Estimated unit cost | Estimated total |
 |-----------|----------|---------------------|-----------------|
@@ -15,5 +15,3 @@ An estimated bill of materials for the RC car is listed below.
 | [Screws](https://www.aliexpress.us/item/2255799870438450.html) | 1 small set | $2.00 per set | $2.00 |
 | **Estimated total** | | | **$59.50–$69.00** |
 
-The total varies depending on whether the front ball caster is printed
-or purchased. Prices are estimates and do not include tax or shipping.
