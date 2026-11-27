@@ -13,7 +13,7 @@ For the chassis file check out the Wi-Fi controlled car chassis.stl file it has 
 
 
 <img width="1920" height="1080" alt="WIN_20261027_23_12_45_Pro" src="https://github.com/user-attachments/assets/8f0864e8-03bb-4851-9792-60ab099957b8" />
-<img width="3024" height="4032" alt="IMG_4606_0ca5bb1c0683ced2" src="https://github.com/user-attachments/assets/a95ab9bf-29cd-4900-97ad-e0cd6934b547" />
+<img width="1158" height="542" alt="image" src="https://github.com/user-attachments/assets/429e110c-e713-4312-8e23-6cda5bb23d28" />
 
 
 
